@@ -1,0 +1,6 @@
+{
+  "name": "GM Catur",
+  "description": "Aplikasi asisten dan permainan catur offline setingkat Grandmaster untuk menemukan langkah terbaik secara cepat dan akurat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
